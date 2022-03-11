@@ -102,3 +102,15 @@ dist
 
 # TernJS port file
 .tern-port
+
+# VS Code
+.vscode/
+
+# SourceMap and coverage
+.sourcemaps/
+.sass-cache/
+coverage/
+
+# OS Files
+.DS_Store
+Thumbs.db
